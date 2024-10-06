@@ -1,0 +1,12 @@
+{
+  "name": "comp3104_group68_assignment",
+  "version": "1.0.0",
+  "description": "## Group Members - **Member 1:** Iffat Amin Nabila (101429832) - [GitHub](https://github.com/Iffat-Amin/COMP3104_Group68_Assignment/tree/main) - **Member 2:**  - **Member 3:**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
