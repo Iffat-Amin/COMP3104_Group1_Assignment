@@ -36,13 +36,7 @@ benefits of cloud computing products.
 H. Identify the market space as a DevOps engineer. s.
 
 3. Policy
-A. Assignment Policy
-● All assignments must be submitted on the due date based on an instruction 
-given by the professor. Late assignment will be penalized 20% per day to a 
-maximum of seven days, the weekend included unless the student has notified 
-the professor (via email, phone or in person) ahead of the due date that 
-he/she has a valid reason for a late submission.
-B. Test Policy
+A. Test Policy
 ● Students must complete tests and the final exam on the assigned day. 
 If unable to complete the test/exam as scheduled, students are required to 
 notify the professor at least three days prior to the date, so alternative 
@@ -51,6 +45,12 @@ zero grade.
 ● There will be no makeup quiz and lab exercises. If you anticipate missing 
 more than two quizzes or lab exercises for serious, major reasons, notify your 
 professor beforehand.
-3. In-Person Exam Policy
+B. In-Person Exam Policy
 ● Mid-Term Exams: Week 7 of the semester
 ● Final Exams: Week 15 of the semester
+C. Assignment Policy
+● All assignments must be submitted on the due date based on an instruction 
+given by the professor. Late assignment will be penalized 20% per day to a 
+maximum of seven days, the weekend included unless the student has notified 
+the professor (via email, phone or in person) ahead of the due date that 
+he/she has a valid reason for a late submission.
