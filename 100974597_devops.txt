@@ -1,4 +1,4 @@
-INFORMATION ABOUT THE COMP 3104 DEVOPS COURSE:
+>>INFORMATION ABOUT THE COMP 3104 DEVOPS COURSE:
 
 In this course students will learn the procedures, protocols and best practices 
 that a DevOps engineer brings to a workplace environment to increase 
@@ -7,7 +7,17 @@ available and implement hands-on work using industry standard toolkit.
 Create solutions to complex business problems by adhering to the core
 responsibilities of DevOps. 
 
-1. Course Outcomes
+1. Course Delivery Mode
+The course uses various instructional methods, such as lectures, demonstrations, 
+hands-on exercises, and take-home assignments. The delivery mode depends on 
+whether the course is online or in person. Online lectures will be the primary 
+mode, but there may be in-person lectures for in-person participants. 
+Labs will be conducted virtually for the online program, while in-person program
+students must attend on-campus labs. For more information about the delivery
+mode, please refer to D2L. Any updates will be communicated through D2L in 
+advance.
+
+2. Course Outcomes
 At the end of this course, the student will reliably demonstrate the ability to:
 A. Demonstrate knowledge of effective DevOps techniques and be able to provide 
 solutions using industry standard tools and techniques such as continuous
@@ -24,16 +34,6 @@ F. Monitor code quality and deploy applications to hosting services.
 G. Utilize service platforms such as Infrastructure as Code and the associated 
 benefits of cloud computing products.
 H. Identify the market space as a DevOps engineer. s.
-
-2. Course Delivery Mode
-The course uses various instructional methods, such as lectures, demonstrations, 
-hands-on exercises, and take-home assignments. The delivery mode depends on 
-whether the course is online or in person. Online lectures will be the primary 
-mode, but there may be in-person lectures for in-person participants. 
-Labs will be conducted virtually for the online program, while in-person program
-students must attend on-campus labs. For more information about the delivery
-mode, please refer to D2L. Any updates will be communicated through D2L in 
-advance.
 
 3. Policy
 A. Assignment Policy
