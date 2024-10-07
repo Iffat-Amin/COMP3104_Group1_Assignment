@@ -1,7 +1,7 @@
 # COMP3104_Group1_Assignment
 
 ## Group Members
-- **Member 1:** Iffat Amin Nabila (101429832) - [GitHub](https://github.com/Iffat-Amin/COMP3104_Group68_Assignment/tree/main)
+- **Member 1:** Iffat Amin Nabila (101429832) - [GitHub](https://github.com/Iffat-Amin)
 - **Member 2:** Camila Lee (100974597) - [GitHub](https://https://github.com/20cml)
 - **Member 3:** Qinxi Liu (101415216) - [Github](https://github.com/qxlt)
 
