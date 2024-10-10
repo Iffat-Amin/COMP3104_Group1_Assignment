@@ -1,12 +1,21 @@
 name: Simple CI for COMP3104 Assignment
+name: Simple CI for COMP3104 Assignment
 
+# Trigger the workflow on pushes to the main branch and pull requests
 # Trigger the workflow on pushes to the main branch and pull requests
 on:
   push:
     branches:
       - main
       - Iffat-101429832
+    branches:
+      - main
+      - Iffat-101429832
   pull_request:
+    branches:
+      - main
+      - Iffat-101429832
+
     branches:
       - main
       - Iffat-101429832
@@ -17,7 +26,12 @@ jobs:
 
 
 
+
+
     steps:
+      # Check out the repository code
+      - name: Checkout code
+        uses: actions/checkout@v4
       # Check out the repository code
       - name: Checkout code
         uses: actions/checkout@v4
