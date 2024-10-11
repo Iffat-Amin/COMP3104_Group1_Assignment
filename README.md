@@ -1,9 +1,10 @@
 # COMP3104_Group1_Assignment
 
 ## Group Members
+
 - **Member 1:** Iffat Amin Nabila (101429832) - [GitHub](https://github.com/Iffat-Amin/COMP3104_Group68_Assignment/tree/main)
-- **Member 2:** Qinxi Liu (101415216)
-- **Member 3:** 
+- **Member 2:** Camila Lee (100974597) - [GitHub](https://https://github.com/20cml)
+- **Member 3:** Qinxi Liu (101415216) - [Github](https://github.com/qxlt)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
@@ -19,4 +20,8 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 
 ## Branching Strategy
 Iffat-101429832
+
 Qinxi-101415216
+
+Camila-100974597
+
