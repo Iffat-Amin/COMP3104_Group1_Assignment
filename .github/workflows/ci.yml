@@ -5,11 +5,11 @@ on:
   push:
     branches:
       - main
-      - Iffat-101429832
+      - Qinxi-101415216
   pull_request:
     branches:
       - main
-      - Iffat-101429832
+      - Qinxi-101415216
 
 jobs:
   build:
