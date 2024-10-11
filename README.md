@@ -19,4 +19,8 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 
 ## Branching Strategy
 Iffat-101429832
+
 Camila-100974597
+
+Qinxi-101415216
+
